@@ -1,1 +1,1 @@
-# Sample Click cli application using poetry
+## Sample Click cli application using poetry
